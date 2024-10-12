@@ -94,4 +94,8 @@ config = function()
     
 end
 }
+use "lukas-reineke/indent-blankline.nvim"
+use "lukas-reineke/lsp-format.nvim"
+use "akinsho/toggleterm.nvim"
+use "terrortylor/nvim-comment"
 end)
